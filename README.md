@@ -1,5 +1,5 @@
 
-# Boat Classification with Deep Learning
+# Artificial Intelligence Data Science: Boat Classification with Deep Learning
 
 # Project Background:
 To decrease human error for boat classification, Marina Pier Inc. automates its port operations Hand-operated misclassification of boats has caused inefficient work. To handle this problem, the company is implementing deep learning models. The goal is to make a self-operating system which can precisely categorize various boat types. Furthermore, a lightweight transfer learning model is engineered to support implementation on mobile devices. 
